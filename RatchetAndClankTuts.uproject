@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{326D78DD-41D7-E9BD-DCC4-D181955D664F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RatchetAndClankTuts",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
